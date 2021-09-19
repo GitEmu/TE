@@ -1,0 +1,27 @@
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\uhttpsharp.dll
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\uhttpsharp.pdb
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\Newtonsoft.Json.xml
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csprojAssemblyReference.cache
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.CoreCompileInputs.cache
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.CopyComplete
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.dll
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.pdb
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\uhttpsharp.dll
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\uhttpsharp.pdb
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.AssemblyReference.cache
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.CopyComplete
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.dll
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.pdb
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\uhttpsharp.dll
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\uhttpsharp.pdb
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.dll
+C:\Users\Administrator\Desktop\TurboEmu_src (2)\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Release\uhttpsharp.pdb

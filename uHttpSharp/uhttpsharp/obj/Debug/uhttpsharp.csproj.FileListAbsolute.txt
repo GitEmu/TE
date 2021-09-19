@@ -1,0 +1,17 @@
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\uhttpsharp.dll
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\uhttpsharp.pdb
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.csprojAssemblyReference.cache
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.csproj.CoreCompileInputs.cache
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.csproj.CopyComplete
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.dll
+C:\Users\DEADC0DE\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.pdb
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\uhttpsharp.dll
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\uhttpsharp.pdb
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.csproj.CopyComplete
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.dll
+C:\Users\Lucius\Desktop\TurboEmu_src\uHttpSharp\uhttpsharp\obj\Debug\uhttpsharp.pdb

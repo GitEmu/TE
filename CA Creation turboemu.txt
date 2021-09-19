@@ -1,0 +1,10 @@
+openssl req -x509 -nodes -new -sha256 -days 5540 -newkey rsa:2048 -keyout BaltimoreCA.key -out BaltimoreCA.pem -subj "/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore\ CyberTrust\ Root"
+openssl x509 -outform pem -in BaltimoreCA.pem -out BaltimoreCA.crt
+
+openssl req -new -nodes -newkey rsa:2048 -keyout Cloudflare.key -out Cloudflare.pem -out Cloudflare.csr -subj "/C=US/O=Cloudflare,\ Inc./CN=Cloudflare Inc ECC CA-3"
+openssl x509 -req -sha256 -days 5530 -in Cloudflare.csr -CA BaltimoreCA.pem -CAkey BaltimoreCA.key -CAcreateserial -out Cloudflare.crt -extfile openssl.cfg
+
+openssl req -new -nodes -newkey rsa:2048 -keyout TurboEmu.key -out TurboEmu.csr -subj "/C=US/ST=California/L=San\ Francisco/O=Cloudflare,\ Inc./CN=ros-bot.com"
+openssl x509 -req -sha256 -days 5520 -in TurboEmu.csr -CA Cloudflare.crt -CAkey Cloudflare.key -CAcreateserial -extfile domains.ext -out TurboEmu.crt
+
+openssl pkcs12 -export -out TurboEmu.pfx -inkey TurboEmu.key -in TurboEmu.crt
